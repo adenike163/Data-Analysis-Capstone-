@@ -1,2 +1,1 @@
-# Data-Analysis-Capstone-
-This is where i did my Capstone Project
+CAPESTONE PROJECT SALESDATA FOR EXCEL
